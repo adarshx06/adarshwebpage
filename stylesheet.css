@@ -129,4 +129,14 @@
   span.highlight {
     background-color: #ffffd0;
   }
+.jio {
+    overflow: hidden; /* Clear floats */
+}
+
+.logo {
+    float: right; /* Float logo to the right */
+    width: 30%; /* Adjust the width based on your design */
+    margin-top: 10px; /* Add margin for spacing */
+}
+
   
